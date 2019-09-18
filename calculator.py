@@ -3,3 +3,6 @@ def add(a,b):
 
 def subtract(c,d):
     return c - d
+
+def multiply(f,g)
+    return f*g
