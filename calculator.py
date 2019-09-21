@@ -2,9 +2,9 @@ def add(a, b):
     return a + b
 
 
-def subtract(c, d):
-    return c - d
+def subtract(a, b):
+    return a - b
 
 
-def multiply(f, g):
-    return f * g
+def multiply(a, b):
+    return a * b

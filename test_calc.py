@@ -21,5 +21,5 @@ def test_add(a, b, expected):
 ])
 def test_subtract(a, b, expected):
     from calculator import subtract
-    result = subtract(c,d)
+    result = subtract(a, b)
     assert result == pytest.approx(expected)
